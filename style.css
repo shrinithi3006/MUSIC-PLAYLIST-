@@ -1,0 +1,36 @@
+#cover{
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 20%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+#alname{
+    text-align: center;
+    color: rgb(255, 216, 223);
+    margin-top: 40px;
+}
+#playPauseBtn{
+    margin-left: 38%;
+}
+#audio{
+    display: none;
+}
+#progress {
+    -webkit-appearance: none;
+    height: 8px;
+    background: #ffdce7;
+    border-radius: 5px;
+  }
+  
+  #progress::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 14px;
+    width: 14px;
+    background: #1af1d1;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+#synthwave{
+    margin-left: 150px;
+}
