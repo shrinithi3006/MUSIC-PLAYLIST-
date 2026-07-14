@@ -20,10 +20,11 @@ A simple and responsive music playlist web application that allows users to brow
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-
+• HTML5
+• CSS3
+• JavaScript
+• PHP
+• MySQL
 ---
 
 
